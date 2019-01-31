@@ -12,3 +12,7 @@ EB-913USBをPCから解錠する為のサンプルスクリプト(ucom cash draw
 [EW-913USB：株式会社エフケイシステム](http://www.fksystem.co.jp/product/03/05/u-913.php)
 
 他、仮想COMポート利用で解錠させられるキャッシュドロワ
+
+# 参考元プロジェクト名
+
+`CashDrawer.vbp`

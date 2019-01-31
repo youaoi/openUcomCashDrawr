@@ -5,6 +5,8 @@ EB-913USBをPCから解錠する為のサンプルスクリプト(ucom cash draw
 
 コマンドライン画面を表示させたくない場合は、別途batファイルを用意し起動させること。
 
+※ui無し版を追加でコミット
+
 # 対象製品
 
 [EW-913USB：株式会社エフケイシステム](http://www.fksystem.co.jp/product/03/05/u-913.php)

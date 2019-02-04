@@ -1,5 +1,6 @@
 # openUcomCashDrawr
-EB-913USBをPCから解錠する為のサンプルスクリプト(ucom cash drawr)に、まともな開発環境のものが無かったので作成しました。
+エフケイシステム(FKSystem)様の製品EB-913USBをPCから解錠する為のサンプルスクリプト(ucom cash drawr)に、
+まともな開発環境のものが無かったので作成しました。
 
 引数、もしくはconfigでCOMポート名を指定すると起動します。
 
@@ -16,3 +17,7 @@ EB-913USBをPCから解錠する為のサンプルスクリプト(ucom cash draw
 # 参考元プロジェクト名
 
 `CashDrawer.vbp`
+
+# 検索語句
+
+キャッシュドロワー キャッシュドロアー キャッシャー 仮想COMポート PC USB接続
